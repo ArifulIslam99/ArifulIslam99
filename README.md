@@ -11,4 +11,5 @@
 - ⚡ Fun fact: I am a totally a noob programmer
 
 
-<img  src="/images/html-icon.png" width="100px" height="100px" />
+<img  src="images/html5-icon.png" width="100px" height="100px" />
+<img  src="images/css.svg" width="100px" height="100px" />
