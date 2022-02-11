@@ -12,7 +12,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/marifulislam099
 - ⚡ Fun fact: I am a totally a noob programmer
 
-## Here are my Top skills --> 
+## Here are my Top skills -> 
 
 <div class="grid-container">
 <img class="image" src="images/html5-icon.png" width="100px" height="100px"/>
