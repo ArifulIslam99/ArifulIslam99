@@ -1,6 +1,6 @@
 .grid-container{
     display: -ms-inline-grid;
-    grid-gap: 5px;
+    grid-gap: 15px;
 }
 
 .grid-container img{
