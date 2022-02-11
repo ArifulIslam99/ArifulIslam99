@@ -1,5 +1,7 @@
-# Hello. This is Md. Ariful Islam 👋
 
+  <link rel="stylesheet" href="styles.css">
+
+# Hello. This is Md. Ariful Islam 👋
 
 
 - 🔭 I’m currently working on Mern Stack Projects Only
@@ -12,12 +14,14 @@
 
 ## Here are my Top skills --> 
 
-<img  src="images/html5-icon.png" width="100px" height="100px" display="inline"/>
-<img  src="images/css.svg" width="100px" height="100px" display="inline"/>
-<img  src="images/js.png" width="100px" height="100px" display="inline"/>
-<img  src="images/react.jpg" width="100px" height="100px" display="inline"/>
-<img  src="images/nodejs.png" width="100px" height="100px" display="inline"/>
-<img  src="images/mongodb.svg" width="100px" height="100px" display="inline"/>
+<div class="grid-container">
+<img  src="images/html5-icon.png" width="100px" height="100px"/>
+<img  src="images/css.svg" width="100px" height="100px"/>
+<img  src="images/js.png" width="100px" height="100px"/>
+<img  src="images/react.jpg" width="100px" height="100px"/>
+<img  src="images/nodejs.png" width="100px" height="100px"/>
+<img  src="images/mongodb.svg" width="100px" height="100px"/>
+</div>
 
 
 
