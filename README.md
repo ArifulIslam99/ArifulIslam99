@@ -17,7 +17,7 @@
 <div class="grid-container">
 <img class="image" src="images/html5-icon.png" width="100px" height="100px"/>
 <img class="image" src="images/css.svg" width="100px" height="100px"/>
-<img class="image" src="images/js-icon.png" width="100px" height="100px"/>
+<img class="image" src="images/js.png" width="100px" height="100px"/>
 <img class="image" src="images/react-icon.png" width="100px" height="100px"/>
 <img class="image" src="images/nodejs.png" width="100px" height="100px"/>
 <img class="image" src="images/mongodb.svg" width="100px" height="100px"/>
