@@ -15,12 +15,12 @@
 ## Here are my Top skills --> 
 
 <div class="grid-container">
-<img  src="images/html5-icon.png" width="100px" height="100px"/>
-<img  src="images/css.svg" width="100px" height="100px"/>
-<img  src="images/js.png" width="100px" height="100px"/>
-<img  src="images/react.jpg" width="100px" height="100px"/>
-<img  src="images/nodejs.png" width="100px" height="100px"/>
-<img  src="images/mongodb.svg" width="100px" height="100px"/>
+<img class="image" src="images/html5-icon.png" width="100px" height="100px"/>
+<img class="image" src="images/css.svg" width="100px" height="100px"/>
+<img class="image" src="images/js.png" width="100px" height="100px"/>
+<img class="image" src="images/react.jpg" width="100px" height="100px"/>
+<img class="image" src="images/nodejs.png" width="100px" height="100px"/>
+<img class="image" src="images/mongodb.svg" width="100px" height="100px"/>
 </div>
 
 
