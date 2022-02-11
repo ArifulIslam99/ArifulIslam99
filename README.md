@@ -21,6 +21,8 @@
 <img class="image" src="images/react-icon.png" width="100px" height="100px"/>
 <img class="image" src="images/nodejs.png" width="100px" height="100px"/>
 <img class="image" src="images/mongodb.svg" width="100px" height="100px"/>
+<img class="image" src="images/cp.png" width="100px" height="100px"/>
+<img class="image" src="images/python.png" width="100px" height="100px"/>
 </div>
 
 
