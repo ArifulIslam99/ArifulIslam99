@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with developer tools
 - 💬 Ask me about football and javascript 
 - 📫 How to reach me: https://www.linkedin.com/in/marifulislam099
-- ⚡ Fun fact: I am a totally a noob programmer
+
 
 ## Here are my Top skills : 
 
