@@ -1,6 +1,6 @@
 <!-- Animated wave header -->
 <a href="https://github.com/ArifulIslam99">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=220&section=header&text=Md.%20Ariful%20Islam&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Blockchain%20Developer%20%E2%80%A2%20Aptos%20%26%20Shelby&descSize=18&descAlignY=60" alt="header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=200&section=header&text=Md.%20Ariful%20Islam&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42" alt="header" width="100%" />
 </a>
 
 <!-- Typing animation -->
