@@ -36,13 +36,13 @@ module ariful::profile {
 ---
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArifulIslam99&theme=tokyonight" alt="profile details" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArifulIslam99&theme=tokyonight" alt="stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArifulIslam99&theme=tokyonight&utcOffset=6" alt="productive time" />
 </div>
 
 <div align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArifulIslam99&theme=tokyonight" alt="most committed language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArifulIslam99&theme=tokyonight&utcOffset=6" alt="productive time" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArifulIslam99&theme=tokyonight" alt="repos per language" />
 </div>
 
 <div align="center">
