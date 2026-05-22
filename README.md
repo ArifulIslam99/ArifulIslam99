@@ -1,13 +1,14 @@
-<h1>Md. Ariful Islam</h1>
+<!-- Animated typing hero -->
+<div align="center">
+  <a href="https://github.com/ArifulIslam99">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=44&duration=2400&pause=900&color=A78BFA&background=00000000&center=true&vCenter=true&width=940&height=80&lines=Md.+Ariful+Islam;%E2%97%86+blockchain+engineer;%E2%97%86+aptos+%E2%80%A2+shelby+%E2%80%A2+move" alt="hero" />
+  </a>
 
-<p>
-  Blockchain Engineer @ <b>MECHA</b> &nbsp;·&nbsp; Dhaka, BD<br/>
-  Building on <b>Aptos</b> &amp; <b>Shelby</b> &nbsp;·&nbsp; previously MERN
-</p>
-
-<a href="https://github.com/ArifulIslam99">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=900&color=A78BFA&width=620&lines=move+%E2%80%A2+rust+%E2%80%A2+typescript+%E2%80%A2+solidity;aptos+%E2%80%A2+shelby+%E2%80%A2+sui+%E2%80%A2+evm;decentralized+media+%E2%80%A2+defi+%E2%80%A2+nft" alt="roles" />
-</a>
+  <p>
+    <b>Blockchain Engineer</b> @ <a href="https://github.com/ArifulIslam99">MECHA</a> &nbsp;·&nbsp; Dhaka, BD<br/>
+    <sub>Building decentralized media &amp; DeFi on <b>Aptos</b> and <b>Shelby</b></sub>
+  </p>
+</div>
 
 ```move
 module ariful::profile {
@@ -32,16 +33,38 @@ module ariful::profile {
 ### Stack
 `Next.js` &nbsp; `Node.js` &nbsp; `MongoDB` &nbsp; `PostgreSQL` &nbsp; `Docker` &nbsp; `Git`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArifulIslam99/ArifulIslam99/output/github-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/ArifulIslam99/ArifulIslam99/output/github-snake.svg" />
-</picture>
+---
 
-<p>
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=ArifulIslam99&show_icons=true&hide=issues,contribs&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArifulIslam99&theme=tokyonight" alt="profile details" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArifulIslam99&theme=tokyonight" alt="stats" />
+</div>
 
-<sub>
-  <a href="https://www.linkedin.com/in/marifulislam099">linkedin</a> &nbsp;·&nbsp;
-  <a href="https://x.com/arifulafridi">x</a>
-</sub>
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArifulIslam99&theme=tokyonight" alt="most committed language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArifulIslam99&theme=tokyonight&utcOffset=6" alt="productive time" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArifulIslam99&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="activity graph" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ArifulIslam99&theme=tokyonight&hide_border=true" alt="streak" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArifulIslam99/ArifulIslam99/output/github-snake-dark.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/ArifulIslam99/ArifulIslam99/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <sub>
+    <a href="https://www.linkedin.com/in/marifulislam099">linkedin</a> &nbsp;·&nbsp;
+    <a href="https://x.com/arifulafridi">x</a>
+  </sub>
+</div>
