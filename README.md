@@ -1,11 +1,11 @@
 <!-- Animated typing hero -->
 <div align="center">
-  <a href="https://github.com/ArifulIslam99">
+  <a href="https://github.com/ARIF-MECHA">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=44&duration=2400&pause=900&color=A78BFA&background=00000000&center=true&vCenter=true&width=940&height=80&lines=Md.+Ariful+Islam;%E2%97%86+blockchain+engineer;%E2%97%86+aptos+%E2%80%A2+shelby+%E2%80%A2+move" alt="hero" />
   </a>
 
   <p>
-    <b>Blockchain Engineer</b> @ <a href="https://github.com/ArifulIslam99">MECHA</a> &nbsp;·&nbsp; Dhaka, BD<br/>
+    <b>Blockchain Engineer</b> @ <a href="https://github.com/ARIF-MECHA">MECHA</a> &nbsp;·&nbsp; Dhaka, BD<br/>
     <sub>Building decentralized media &amp; DeFi on <b>Aptos</b> and <b>Shelby</b></sub>
   </p>
 </div>
@@ -14,7 +14,7 @@
 module ariful::profile {
     use std::string::String;
 
-    /// On-chain card for @ArifulIslam99
+    /// On-chain card for @ARIF-MECHA
     struct Engineer has key {
         role:    String,           // "Blockchain Engineer @ MECHA"
         focus:   vector<String>,   // [b"Aptos", b"Shelby", b"DeFi"]
@@ -36,27 +36,27 @@ module ariful::profile {
 ---
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArifulIslam99&theme=tokyonight" alt="stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArifulIslam99&theme=tokyonight&utcOffset=6" alt="productive time" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ARIF-MECHA&theme=tokyonight" alt="stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ARIF-MECHA&theme=tokyonight&utcOffset=6" alt="productive time" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArifulIslam99&theme=tokyonight" alt="most committed language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArifulIslam99&theme=tokyonight" alt="repos per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ARIF-MECHA&theme=tokyonight" alt="most committed language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ARIF-MECHA&theme=tokyonight" alt="repos per language" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArifulIslam99&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ARIF-MECHA&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="activity graph" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ArifulIslam99&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=ARIF-MECHA&theme=tokyonight&hide_border=true" alt="streak" />
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArifulIslam99/ArifulIslam99/output/github-snake-dark.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/ArifulIslam99/ArifulIslam99/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ARIF-MECHA/ARIF-MECHA/output/github-snake-dark.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/ARIF-MECHA/ARIF-MECHA/output/github-snake.svg" />
   </picture>
 </div>
 
